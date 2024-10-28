@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+vnstock3
+statsmodels
+matplotlib
+scikit-learn
+datetime
