@@ -6,3 +6,5 @@ statsmodels
 matplotlib
 scikit-learn
 datetime
+time
+webbrowser
